@@ -1,0 +1,706 @@
+{
+  "destinations": [
+    {
+      "id": "sirindhorn-museum",
+      "title": "พิพิธภัณฑ์สิรินธร (Sirindhorn Museum)",
+      "titlesub": ["พิพิธภัณฑ์สิรินธร"],
+      "location": "อำเภอสหัสขันธ์ จังหวัดกาฬสินธุ์",
+      "urllocation": ["https://maps.app.goo.gl/h6YNeU8Y7EdBWQmSA"],
+      "description": "พิพิธภัณฑ์สิรินธร คือแหล่งเรียนรู้ทางธรรมชาติวิทยาและธรณีวิทยาที่ใหญ่และสมบูรณ์ที่สุดแห่งหนึ่งในภูมิภาคเอเชียตะวันออกเฉียงใต้ ตั้งอยู่บนพื้นที่สำคัญทางโบราณคดีที่ ภูกุ้มข้าว ซึ่งเป็นจุดที่มีการค้นพบซากดึกดำบรรพ์ไดโนเสาร์จำนวนมาก พิพิธภัณฑ์นำเสนอเรื่องราวของโลกและวิวัฒนาการของสิ่งมีชีวิตอย่างเป็นระบบผ่านการจัดแสดงที่ทันสมัยและน่าตื่นตาตื่นใจ ผู้เข้าชมสามารถเดินไปยังส่วนจัดแสดงหลุมขุดค้นจริง ซึ่งเป็นการชมหลักฐานทางประวัติศาสตร์ของโลกดึกดำบรรพ์ในพื้นที่จริง",
+      "descriptionsub": ["ที่มาและความสำคัญ: พื้นที่นี้เดิมคือ ศูนย์วิจัยไดโนเสาร์ภูกุ้มข้าว ซึ่งเริ่มเปิดดำเนินการมาตั้งแต่ปี พ.ศ. 2538 ภายหลังจากการค้นพบซากกระดูกไดโนเสาร์กินพืช ภูเวียงโกซอรัส สิรินธรเน่ (Phuwiangosaurus sirindhornae) จำนวนมากในปี พ.ศ. 2537 โดยคณะสำรวจจากกรมทรัพยากรธรณี ต่อมาได้พัฒนาเป็นพิพิธภัณฑ์อย่างเต็มรูปแบบเพื่อเป็นสถานที่ปฏิบัติงานศึกษาวิจัย อนุรักษ์ และเก็บรวบรวมตัวอย่างซากไดโนเสาร์ โดยได้รับพระราชทานนาม พิพิธภัณฑ์สิรินธร"],
+      "imageUrl": "https://mpics.mgronline.com/pics/Images/558000003769501.JPEG",
+      "rating": 4.0,
+      "category": "พิพิธภัณฑ์",
+      "address": "พิพิธภัณฑ์สิรินธร ภูกุ้มข้าว อำเภอสหัสขันธ์ จังหวัดกาฬสินธุ์ 46140",
+      "phone": "043-871-014",
+      "openingHours": "วันอังคาร – วันอาทิตย์ เวลา 09:00 – 17:00 น. (ปิดทุกวันจันทร์)",
+      "ticketPrice": "ไม่ระบุ",
+      "gallery": [
+        "https://mpics.mgronline.com/pics/Images/558000003769501.JPEG",
+        "https://www.scimath.org/images/stories/flexicontent/item_12024_field_65/l_12024_image_02-1.jpg",
+        "https://www.scimath.org/images/stories/flexicontent/item_12024_field_65/l_12024_image_01-1.jpg",
+        "https://www.scimath.org/image-science/item/12024-2020-12-02-06-32-39-11922-12024#fcview_item-11",
+        "https://www.scimath.org/image-science/item/12024-2020-12-02-06-32-39-11922-12024#fcview_item-39"
+      ],
+      "activities": [
+        "ชมนิทรรศการไดโนเสาร์",
+        "เรียนรู้ประวัติศาสตร์โลกและวิวัฒนาการสิ่งมีชีวิต",
+        "เยี่ยมชมหลุมขุดค้นจริง"
+      ],
+      "bestTimeToVisit": "ตลอดทั้งปี",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ"
+      ]
+    },
+    {
+      "id": "phra-that-yaku",
+      "title": "พระธาตุยาคู และ เมืองโบราณฟ้าแดดสงยาง",
+      "titlesub": ["พระธาตุยาคู"],
+      "location": "อำเภอกมลาไสย จังหวัดกาฬสินธุ์",
+      "urllocation": ["https://maps.app.goo.gl/d1t8WjAK4Pt7qK5b8"],
+      "description": "เมืองฟ้าแดดสงยาง และพระธาตุยาคู คือหลักฐานสำคัญที่แสดงถึงความเจริญรุ่งเรืองของอารยธรรมพุทธศาสนาในภาคอีสานตั้งแต่สมัยทวารวดีเมื่อกว่า 1,000 ปีที่แล้ว พระธาตุยาคูเป็นเจดีย์ที่ใหญ่ที่สุดในเขตเมืองฟ้าแดดสงยาง มีลักษณะพิเศษคือการก่อสร้างที่แสดงถึงศิลปะที่ซ้อนทับกันถึง 3 สมัย ทุกเดือนพฤษภาคมจะมีงานประเพณีสรงน้ำพระธาตุยาคูอย่างยิ่งใหญ่ พร้อมขบวนแห่และการประดับประดาด้วยทะเลธุงนับพันต้น",
+      "descriptionsub": ["เมืองโบราณฟ้าแดดสงยาง: เป็นเมืองโบราณสมัยทวารวดีขนาดใหญ่ มีผังเมืองเป็น รูปไข่ และมี คูเมืองสองชั้น หลงเหลืออยู่ เชื่อกันว่ามีความรุ่งเรืองสูงสุดในช่วง พุทธศตวรรษที่ 12-16 มีการค้นพบ ใบเสมาหินทราย จำนวนมากรอบเขตโบราณสถาน ใบเสมาเหล่านี้มีความโดดเด่นทางศิลปะ โดยมีการแกะสลักภาพนูนต่ำเล่าเรื่อง พุทธประวัติ และ ชาดก (เช่น มโหสถชาดก) ซึ่งเป็นเอกลักษณ์ของศิลปะทวารวดีอีสาน"],
+      "imageUrl": "https://fadet-heritage.ksu.ac.th/wp-content/uploads/2019/12/yakult.jpg",
+      "rating": 4.0,
+      "category": "โบราณสถานและศาสนสถาน",
+      "address": "เมืองโบราณฟ้าแดดสงยาง บ้านเสมา ตำบลหนองแปน อำเภอกมลาไสย จังหวัดกาฬสินธุ์",
+      "phone": "-",
+      "openingHours": "เปิดให้เข้าชมทุกวัน",
+      "ticketPrice": "ไม่ระบุ",
+      "gallery": [
+        "https://fadet-heritage.ksu.ac.th/wp-content/uploads/2019/12/yakult.jpg",
+        "https://www.muangboranmuseum.com/wp-content/uploads/2018/12/north-east-14.jpg",
+        "https://upic.me/i/nt/dsc_0096_resize_exposure.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1OcLXpQCQcLZdknQITA0mWAiv-kQlh-us-b8tPPdkaFSZUpF1ddi950BqzlDk0u9XDSU&usqp=CAU"
+      ],
+      "activities": [
+        "สักการะพระธาตุยาคู",
+        "ชมใบเสมาหินทรายโบราณ",
+        "เที่ยวเมืองโบราณฟ้าแดดสงยาง",
+        "ร่วมงานประเพณีสรงน้ำพระธาตุ (เดือนพฤษภาคม)"
+      ],
+      "bestTimeToVisit": "เดือนพฤษภาคม สำหรับงานประเพณี",
+      "facilities": [
+        "ที่จอดรถ"
+      ]
+    },
+    {
+      "id": "lam-pao-dam",
+      "title": "เขื่อนลำปาว, สะพานเทพสุดา และ หาดดอกเกด",
+      "titlesub": ["เขื่อนลำปาว"],
+      "location": "เชื่อมระหว่างถนนหมายเลข 2416 (สหัสขันธ์) กับ อำเภอหนองกุงศรี",
+      "urllocation": ["https://maps.app.goo.gl/LkHnAdzxLMwoimj9A"],
+      "description": "เขื่อนลำปาวเป็นแหล่งกักเก็บน้ำสำคัญและเป็นพื้นที่เศรษฐกิจและการท่องเที่ยวที่สำคัญที่สุดของจังหวัดกาฬสินธุ์ จนได้รับฉายาว่า 'ทะเลอีสาน' สะพานเทพสุดาเป็นสะพานข้ามน้ำจืดที่ยาวที่สุดในประเทศไทย และเป็นจุดชมวิวทิวทัศน์อ่างเก็บน้ำที่สวยงาม หาดดอกเกดเป็นสถานที่พักผ่อนยอดนิยมริมเขื่อนลำปาวที่ถูกเนรมิตให้มีชายหาดทรายกว้างขวางคล้ายทะเลจริง",
+      "descriptionsub": ["เขื่อนลำปาว (Lam Pao Dam):เป็น เขื่อนดินขนาดใหญ่ ก่อสร้างเสร็จในปี พ.ศ. 2511 มีความสูง 33 เมตร สันเขื่อนยาวถึง 7.8 กิโลเมตร ประโยชน์หลัก: ใช้ในการบรรเทาอุทกภัย การสนับสนุนน้ำเพื่อการเกษตร การผลิตไฟฟ้า และเป็นแหล่งเพาะพันธุ์ปลาน้ำจืดที่สำคัญของภาคอีสาน"],
+      "imageUrl": "https://pbs.twimg.com/media/C6Km83XU8AArL7s.jpg",
+      "rating": 4.0,
+      "category": "ธรรมชาติและสันทนาการ",
+      "address": "บริเวณหาดดอกเกด ตำบลลำคลอง อำเภอเมืองกาฬสินธุ์",
+      "phone": "-",
+      "openingHours": "หาดดอกเกด: ทุกวัน 08:00 – 17:00 น.",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YcqS57J_RQl0QjuplvgI4gUl1pNWatuAXg&s",
+        "https://cms.dmpcdn.com/travel/2021/01/20/342c5d40-5ae7-11eb-8733-c113409c67f0_original.jpg",
+        "https://theisaanrecord.co/wp-content/uploads/2023/10/lampao.jpeg",
+        "https://mpics.mgronline.com/pics/Images/567000003326201.JPEG",
+        "https://pbs.twimg.com/media/C6Km83XU8AArL7s.jpg"
+      ],
+      "activities": [
+        "ชมวิวสะพานเทพสุดา",
+        "เล่นน้ำที่หาดดอกเกด",
+        "ล่องเรือชมทัศนียภาพ",
+        "ทานอาหารท้องถิ่นริมน้ำ"
+      ],
+      "bestTimeToVisit": "ฤดูหนาว (ช่วงเดือนพฤศจิกายน - กุมภาพันธ์)",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ",
+        "ร้านอาหาร",
+        "เช่าเรือยาง"
+      ]
+    },
+    {
+      "id": "phu-faek-dinosaur-footprints",
+      "title": "รอยเท้าไดโนเสาร์ วนอุทยานภูแฝก (Phu Faek Dinosaur Footprints)",
+      "titlesub": ["อุทยานภูแฝก"],
+      "location": "อำเภอนาคู จังหวัดกาฬสินธุ์",
+      "urllocation": ["https://maps.app.goo.gl/ET5qhrKyxMhFWzfA9"],
+      "description": "วนอุทยานภูแฝกเป็นแหล่งท่องเที่ยวสำคัญทางธรณีวิทยาและธรรมชาติ โดยเฉพาะการค้นพบรอยเท้าไดโนเสาร์ที่เป็นหลักฐานปรากฏอยู่บนลานหินธรรมชาติอย่างชัดเจน รอยเท้าที่พบมีมากกว่า 7 รอย ปรากฏอยู่บนลานหินทราย มีอายุประมาณ 140 ล้านปี ถือเป็นจุดที่นักธรณีวิทยาและนักท่องเที่ยวให้ความสนใจ",
+      "descriptionsub": ["การค้นพบ:ค้นพบเมื่อปี พ.ศ. 2539 โดยกลุ่มนักธรณีวิทยาจากกรมทรัพยากรธรณีรอยเท้าไดโนเสาร์ที่พบมีมากกว่า 7 รอย ปรากฏอยู่บนลานหินทราย หมวดหินภูพาน (ยุคครีเทเชียส) ซึ่งมีอายุประมาณ 140 ล้านปีรอยเท้าที่ชัดเจนที่สุดคือรอยเท้าของไดโนเสาร์กินเนื้อขนาดใหญ่ กลุ่มเทอโรพอด (Theropod) ที่มี 3 นิ้ว"],
+      "imageUrl": "https://cms.dmpcdn.com/travel/2022/10/16/9611cbe0-4d29-11ed-a41b-99fe70d4a0e6_webp_original.jpg",
+      "rating": 4.0,
+      "category": "ธรรมชาติและการเรียนรู้",
+      "address": "วนอุทยานภูแฝก ตำบลภูแล่นช้าง อำเภอนาคู จังหวัดกาฬสินธุ์",
+      "phone": "-",
+      "openingHours": "ทุกวัน (โดยทั่วไป 08:00 – 17:00 น.)",
+      "ticketPrice": "ไม่ระบุ",
+      "gallery": [
+        "https://cms.dmpcdn.com/travel/2022/10/16/9611cbe0-4d29-11ed-a41b-99fe70d4a0e6_webp_original.jpg",
+        "https://img.wongnai.com/p/400x0/2021/04/13/c3f2bb2174194801ab859a69e25a11be.jpg",
+        "https://png.pngtree.com/background/20240603/original/pngtree-carnotaurus-footprint-by-stream-in-phu-faek-national-forest-thailand-photo-picture-image_9180969.jpg",
+        "https://www.shutterstock.com/image-vector/vector-reptile-footprints-dinosaur-tracks-260nw-435946279.jpg",
+        "https://edutour.vantagestudio.net/sites/default/files/gallery/pf8.jpg"
+      ],
+      "activities": [
+        "ตามรอยเท้าไดโนเสาร์",
+        "ศึกษาธรณีวิทยา",
+        "เดินป่าชมธรรมชาติ"
+      ],
+      "bestTimeToVisit": "ฤดูหนาว",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ"
+      ]
+    },
+    {
+      "id": "wat-phuttha-nimit",
+      "title": "วัดพุทธนิมิต (วัดภูค่าว)",
+      "titlesub": ["วัดภูค่าว"],
+      "location": "อำเภอสหัสขันธ์ จังหวัดกาฬสินธุ์",
+      "urllocation": ["https://maps.app.goo.gl/TJ1uX5nhbHDnjwDRA"],
+      "description": "วัดพุทธนิมิต หรือที่ชาวบ้านเรียกว่า วัดภูค่าว เป็นวัดเก่าแก่ที่มีความสำคัญทางประวัติศาสตร์และพุทธศิลป์ ตั้งอยู่บนภูเขาที่สามารถมองเห็นทิวทัศน์โดยรอบได้ ภายในประดิษฐานพระพุทธไสยาสน์ที่แกะสลักจากหินทั้งองค์ มีอายุเก่าแก่กว่า 1,300 ปี และมีสิมไม้ที่เป็นอาคารสถาปัตยกรรมแบบอีสานที่มีความประณีตสูง",
+      "descriptionsub": ["ไฮไลต์สำคัญ: พระพุทธไสยาสน์ (พระนอน)เป็นพระพุทธรูปปางไสยาสน์ที่แกะสลักจากหินทั้งองค์ มีความยาวถึง 2.5 เมตร ประดิษฐานในวิหารที่มีหลังคาจตุรมุขอายุ: เชื่อกันว่ามีอายุเก่าแก่กว่า 1,300 ปี สันนิษฐานว่าเป็นศิลปะแบบทวารวดี หรือได้รับอิทธิพลจากพุทธศิลป์อินเดียสมัยหลังคุปตะความพิเศษ: เป็นพระนอนที่ถูกหันพระเศียรไปทางทิศเหนือ ซึ่งแตกต่างจากพระนอนทั่วไปที่มักหันไปทางทิศตะวันออกสิมไม้ (อุโบสถ):ภายในวัดมีอาคารไม้แกะสลักที่งดงาม เป็นอาคารสถาปัตยกรรมแบบอีสานที่มีความประณีตสูงรายละเอียด: เพดานและเสาไม้มีการแกะสลักลวดลายวิจิตรบรรจง และตกแต่งด้วยกระจกสีที่สะท้อนแสงแวววาว ภายในประดิษฐานพระประธานที่มีชื่อเสียงความร่มรื่นของภูค่าว:วัดตั้งอยู่บนพื้นที่ภูเขาที่เงียบสงบ มีธรรมชาติรายล้อม ทำให้เป็นสถานที่ที่เหมาะสำหรับการปฏิบัติธรรมและพักผ่อนจิตใจไปพร้อมกับการชมความงามทางพุทธศิลป์"],
+      "imageUrl": "https://cms.dmpcdn.com/travel/2022/07/10/49c1c4b0-002c-11ed-adeb-17ffefd3c975_webp_original.jpg",
+      "rating": 4.0,
+      "category": "วัด",
+      "address": "วัดพุทธนิมิต (ภูค่าว) ตำบลสหัสขันธ์ อำเภอสหัสขันธ์ จังหวัดกาฬสินธุ์",
+      "phone": "-",
+      "openingHours": "ทุกวัน 08:00 – 17:00 น.",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "https://cms.dmpcdn.com/travel/2022/07/10/49c1c4b0-002c-11ed-adeb-17ffefd3c975_webp_original.jpg",
+        "https://palanla.com/ckeditor/upload/files/id37/domestic_location/Wat%20Phuttha%20Nimit%20Phu%20Khao/001.jpg",
+        "https://grapetouring.home.blog/wp-content/uploads/2019/02/pg5y4l8z4dcv81pfd0w-o.jpg",
+        "https://www.bansansuk.com/travel/PhuKhaow.jpg",
+        "https://pukmudmuangthai.com/wp-content/uploads/2021/01/IMG_7424-Medium-1024x683.jpg"
+      ],
+      "activities": [
+        "สักการะพระพุทธไสยาสน์หินอายุ 1,300 ปี",
+        "ชมสถาปัตยกรรมสิมไม้แกะสลัก",
+        "ชมทิวทัศน์จากบนภูเขา"
+      ],
+      "bestTimeToVisit": "ตลอดทั้งปี",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ"
+      ]
+    },
+    {
+      "id": "wat-wang-kham",
+      "title": "วัดวังคำ",
+      "titlesub": ["วังคำ"],
+      "location": "อำเภอเขาวง จังหวัดกาฬสินธุ์",
+      "urllocation": ["https://maps.app.goo.gl/GV84cCCVrk6ZqBRL9"],
+      "description": "วัดวังคำ เป็นศาสนสถานที่มีชื่อเสียงโดดเด่นด้วยสถาปัตยกรรมทางพุทธศาสนาที่ผสมผสานศิลปะแบบล้านช้าง (ลาว) ที่งดงามและอลังการ โดยเฉพาะอย่างยิ่งสิม (อุโบสถ) ที่สร้างขึ้นอย่างวิจิตรบรรจง ทำให้ที่นี่ถูกยกให้เป็นหนึ่งในวัดที่มีความสวยงามที่สุดในภาคอีสาน",
+      "descriptionsub": ["สถาปัตยกรรมล้านช้าง: วัดวังคำมีสถาปัตยกรรมที่โดดเด่นด้วยศิลปะแบบล้านช้าง ซึ่งสะท้อนให้เห็นถึงอิทธิพลทางวัฒนธรรมจากประเทศลาว โดยเฉพาะอย่างยิ่งในส่วนของสิม (อุโบสถ) ที่มีหลังคาซ้อนกันหลายชั้นและการตกแต่งด้วยลวดลายที่ประณีตพระประธาน: ภายในสิมประดิษฐานพระประธานที่งดงาม มีการตกแต่งด้วยจิตรกรรมฝาผนังที่เล่าเรื่องราวทางพุทธศาสนาอย่างละเอียดรอบๆ สิมยังมีการตกแต่งด้วยลวดลายปูนปั้นและไม้แกะสลักที่สะท้อนถึงความเชื่อและวัฒนธรรมของชาวล้านช้างความสำคัญทางประวัติศาสตร์: วัดวังคำมีประวัติศาสตร์ยาวนานและเป็นศูนย์กลางทางศาสนาและวัฒนธรรมของชุมชนท้องถิ่นมาอย่างยาวนาน เป็นสถานที่ที่ผู้คนมักมาทำบุญและร่วมกิจกรรมทางศาสนา"],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YcqS57J_RQl0QjuplvgI4gUl1pNWatuAXg&s",
+      "rating": 4.0,
+      "category": "วัด",
+      "address": "วัดวังคำ ตำบลสงเปลือย อำเภอเขาวง จังหวัดกาฬสินธุ์",
+      "phone": "-",
+      "openingHours": "เปิดให้เข้าชมทุกวัน",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YcqS57J_RQl0QjuplvgI4gUl1pNWatuAXg&s",
+        "https://cms.dmpcdn.com/travel/2020/11/19/ad3ad250-2a47-11eb-8c49-6ff1aae212a5_original.jpg",
+        "https://kasetbanna.com/wp-content/uploads/2023/09/Wad-Wang-Kham-02.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbQlBF9P-Q6RpSpxemmuikbeXyvjQlh-us-b8tPPdkaFSZUpF1ddi950BqzlDk0u9XDSU&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLE06FNv9oKDnVhPDQZhwYTvqBgqews5dlmw&s"
+      ],
+      "activities": [
+        "ชมสถาปัตยกรรมศิลปะล้านช้าง",
+        "สักการะพระประธานในสิม",
+        "ชมจิตรกรรมฝาผนัง",
+        "ถ่ายรูปงานสถาปัตยกรรม"
+      ],
+      "bestTimeToVisit": "ตลอดทั้งปี",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ"
+      ]
+    },
+    {
+      "id": "laem-non-wiset",
+      "title": "แหลมโนนวิเศษ เขื่อนลำปาว (Laem Non Wiset)",
+      "titlesub": ["แหลมโนนวิเศษ"],
+      "location": "อำเภอสหัสขันธ์ จังหวัดกาฬสินธุ์",
+      "urllocation": ["https://maps.app.goo.gl/tU93K4WM819GiDVRA"],
+      "description": "แหลมโนนวิเศษ เป็นพื้นที่ธรรมชาติที่ยื่นล้ำเข้าไปในอ่างเก็บน้ำขนาดใหญ่ของเขื่อนลำปาว ถือเป็นหนึ่งในจุดชมทัศนียภาพของเขื่อนที่สวยงามที่สุด และเป็นที่นิยมอย่างยิ่งในการชมพระอาทิตย์ตกดิน เป็นจุดที่เหมาะสำหรับการปิกนิก พักผ่อนหย่อนใจ และถ่ายภาพทิวทัศน์ธรรมชาติ",
+      "descriptionsub": ["แหลมโนนวิเศษ: เป็นแหลมที่ยื่นออกไปในอ่างเก็บน้ำของเขื่อนลำปาว มีทัศนียภาพที่งดงาม โดยเฉพาะในช่วงพระอาทิตย์ตกดินที่ท้องฟ้าจะเปลี่ยนสีสวยงามเหมาะสำหรับกิจกรรมกลางแจ้ง: แหลมโนนวิเศษเป็นสถานที่ที่เหมาะสำหรับการปิกนิก เดินเล่น และถ่ายรูปทิวทัศน์ธรรมชาติ นอกจากนี้ยังเป็นจุดชมวิวที่ยอดเยี่ยมสำหรับการชมพระอาทิตย์ตกดินความสงบและธรรมชาติ: บรรยากาศที่แหลมโนนวิเศษเงียบสงบ มีธรรมชาติรอบด้าน ทำให้เป็นสถานที่พักผ่อนหย่อนใจที่ดีเยี่ยมจากความวุ่นวายของเมือง"],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9thTr_R6HFLHgG9Uuu-tggv1y9BORUmk0Cg&s",
+      "rating": 4.0,
+      "category": "ธรรมชาติและจุดชมวิว",
+      "address": "ตำบลโนนบุรี อำเภอสหัสขันธ์ จังหวัดกาฬสินธุ์",
+      "phone": "-",
+      "openingHours": "เปิดให้เข้าชมทุกวัน (แนะนำช่วงเย็น)",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9thTr_R6HFLHgG9Uuu-tggv1y9BORUmk0Cg&s",
+        "https://ideaskaset.com/wp-content/uploads/2023/08/Thepsuda-Bridge-01.jpg",
+        "https://us-fbcloud.net/wb/data/1584/1584228-img.wxfauq.snpl._m.webp",
+        "https://image.posttoday.com/media/content/2018/04/21/0BB735F706D84DF1BAEC3142E3A83023.jpg?x-image-process=style/lg-webp",
+        "https://th.readme.me/f/44899/642801f9570fe51ca6f64554.jpg"
+      ],
+      "activities": [
+        "ชมพระอาทิตย์ตก",
+        "ปิกนิก",
+        "ถ่ายรูปทิวทัศน์"
+      ],
+      "bestTimeToVisit": "ช่วงฤดูหนาวและช่วงฤดูฝน",
+      "facilities": [
+        "ลานกว้าง",
+        "ที่จอดรถ"
+      ]
+    },
+    {
+      "id": "wat-phuttawat-phu-sing",
+      "title": "วัดพุทธาวาส (ภูสิงห์)",
+      "titlesub": ["ภูสิงห์"],
+      "location": "อำเภอสหัสขันธ์ จังหวัดกาฬสินธุ์",
+      "urllocation": ["https://maps.app.goo.gl/h3pbMDcqFwojY5cS6"],
+      "description": "วัดพุทธาวาส หรือที่รู้จักกันในชื่อ วัดภูสิงห์ เป็นวัดที่ตั้งอยู่บนยอดภูสิงห์ ซึ่งเป็นส่วนหนึ่งของเทือกเขาภูพาน ภายในประดิษฐานพระพรหมภูมิปาโล และมีลานพญานาค จากยอดภูสิงห์สามารถมองเห็นทัศนียภาพโดยรอบได้อย่างชัดเจนแบบ 360 องศา ทั้งผืนน้ำของเขื่อนลำปาว ภูกุ้มข้าว และภูค่าว",
+      "descriptionsub": ["วัดพุทธาวาส (ภูสิงห์): ตั้งอยู่บนยอดภูสิงห์ ซึ่งเป็นส่วนหนึ่งของเทือกเขาภูพาน มีความสูงประมาณ 352 เมตรจากระดับน้ำทะเล จุดเด่น: ประดิษฐานพระพรหมภูมิปาโล พระพุทธรูปปางมารวิชัยที่มีขนาดใหญ่และงดงาม นอกจากนี้ยังมีลานพญานาคที่เป็นสัญลักษณ์ของวัดและเป็นจุดชมวิวที่สามารถมองเห็นทัศนียภาพรอบด้านได้อย่างชัดเจน เช่น เขื่อนลำปาว ภูกุ้มข้าว และภูค่าวกิจกรรม: นักท่องเที่ยวสามารถเดินขึ้นบันได 654 ขั้นเพื่อไปยังยอดภูสิงห์ ซึ่งเป็นการออกกำลังกายที่ดีและได้สัมผัสกับธรรมชาติระหว่างทาง นอกจากนี้ยังสามารถสักการะพระพรหมภูมิปาโลและชมวิวพระอาทิตย์ตกดินที่งดงาม"],
+      "imageUrl": "https://cms.dmpcdn.com/travel/2022/07/05/9c902750-fc57-11ec-a08a-2b38f5ea0fad_webp_original.jpg",
+      "rating": 4.0,
+      "category": "วัดและจุดชมวิว",
+      "address": "33 หมู่ 7 ตำบลภูสิงห์ อำเภอสหัสขันธ์ จังหวัดกาฬสินธุ์ 46140",
+      "phone": "082-858-7333",
+      "openingHours": "ทุกวัน (โดยทั่วไป 09:00 – 19:00 น.)",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaYBkUY9e0u1lyN4-eoIjo0W4Z3KWV1OUZzeluNm70yA8h01L3pXKox4V2y0hltVWr5Zk&usqp=CAU",
+        "https://cms.dmpcdn.com/travel/2022/07/05/9c902750-fc57-11ec-a08a-2b38f5ea0fad_webp_original.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTao1prP2KWH9I2FIy7uJWmhkEUnGanTIQo2Q&s ",
+        "https://f.ptcdn.info/768/072/000/qpjs0e1247PCmbuKm6GH-o.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZPFg8bPDW2XpNLA43CzK6KSCMr5lnlpk-oWIxyZAsvfDhOtDbBccELS8YXilbx4kgbg&usqp=CAU"
+      ],
+      "activities": [
+        "สักการะพระพรหมภูมิปาโล",
+        "ชมวิว 360 องศา",
+        "เดินขึ้นบันได 654 ขั้น",
+        "ขับรถขึ้นสู่ยอดภู"
+      ],
+      "bestTimeToVisit": "ช่วงเย็นเพื่อชมพระอาทิตย์ตก",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ"
+      ]
+    },
+    {
+      "id": "phu-po-buddha-site",
+      "title": "พุทธสถานภูปอ",
+      "titlesub": ["ภูปอ"],
+      "location": "อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์",
+      "urllocation": ["https://maps.app.goo.gl/CMTykVyU1UcMwT5h9"],
+      "description": "พุทธสถานภูปอเป็นสถานที่ศักดิ์สิทธิ์ทางพระพุทธศาสนาที่มีความสำคัญทางประวัติศาสตร์ศิลปะอย่างยิ่ง เนื่องจากเป็นที่ประดิษฐานพระพุทธไสยาสน์ (พระนอน) ที่แกะสลักอยู่บนแผ่นหินใต้เพิงผาถึง 2 องค์ มีอายุกว่าพันปี แสดงถึงความเจริญรุ่งเรืองของพุทธศาสนาในดินแดนอีสานมาอย่างยาวนาน",
+      "descriptionsub": ["พระพุทธไสยาสน์: มีพระพุทธไสยาสน์ 2 องค์ที่แกะสลักจากหินทั้งองค์ องค์แรกมีความยาวประมาณ 2.5 เมตร และองค์ที่สองมีความยาวประมาณ 1.5 เมตร ทั้งสององค์ประดิษฐานอยู่ใต้เพิงผาหินธรรมชาติที่มีลักษณะคล้ายถ้ำเมืองโบราณภูปอ: พุทธสถานภูปอตั้งอยู่บนยอดภูปอ ซึ่งเป็นเนินเขาหินทรายสูงประมาณ 150 เมตรจากระดับน้ำทะเล การเดินทางขึ้นไปยังยอดภูต้องใช้ความพยายาม เนื่องจากมีบันไดหินและทางเดินที่ค่อนข้างชัน แต่เมื่อขึ้นไปถึงยอดจะได้ชมวิวทิวทัศน์รอบด้านที่สวยงามและสามารถมองเห็นตัวเมืองกาฬสินธุ์ได้อย่างชัดเจนความสำคัญทางประวัติศาสตร์: พุทธสถานภูปอเป็นหลักฐานสำคัญที่แสดงถึงความเจริญรุ่งเรืองของพุทธศาสนาในภาคอีสานในสมัยทวารวดี และเป็นแหล่งท่องเที่ยวเชิงประวัติศาสตร์ที่นักท่องเที่ยวและผู้สนใจในศิลปะและประวัติศาสตร์มักมาเยี่ยมชม"],
+      "imageUrl": "https://www.thai-tour.com/thai-tour/northeast/kalasin/images/kalasin-city-pillar-shrine/kalasin-city-pillar-shrine2.jpg",
+      "rating": 4.0,
+      "category": "โบราณสถานและศาสนสถาน",
+      "address": "ตำบลภูปอ อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์ 46000",
+      "phone": "-",
+      "openingHours": "เปิดให้เข้าชมทุกวัน",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "https://www.thai-tour.com/thai-tour/northeast/kalasin/images/kalasin-city-pillar-shrine/kalasin-city-pillar-shrine2.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmUN-1ZZComfaxcQJvhFns5qEiUaKqeYdJw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMNdJmFcUmkmmF5aIWOVAHqGWHsMKRUtNsHD2TpOAlY4VzNlZ5f-GBXkcpmGbgPaplCSs&usqp=CAU",
+        "https://cms.dmpcdn.com/ugcarticle/2023/02/27/becebe50-b681-11ed-8401-97cb7571360e0_original.jpeg",
+        "https://www.esanart.com/travel/%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87/img/07.jpg"
+      ],
+      "activities": [
+        "สักการะพระพุทธไสยาสน์ 2 องค์",
+        "เรียนรู้ประวัติศาสตร์ศิลปะทวารวดี",
+        "ปีนขึ้นสู่ยอดภูปอ"
+      ],
+      "bestTimeToVisit": "ช่วงเช้าเพื่อหลีกเลี่ยงความร้อน",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ"
+      ]
+    },
+    {
+      "id": "kalasin-city-pillar-shrine",
+      "title": "ศาลเจ้าพ่อหลักเมืองกาฬสินธุ์ (Kalasin City Pillar Shrine)",
+      "titlesub": [""],
+      "location": "อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์",
+      "urllocation": [""],
+      "description": "ศาลเจ้าพ่อหลักเมืองกาฬสินธุ์ เป็นสถานที่ศักดิ์สิทธิ์และเป็นศูนย์รวมจิตใจของชาวเมือง ภายในศาลประดิษฐานเสาหลักเมืองเก่าแก่และมีใบเสมาหินทรายโบราณสีทองสุกอร่ามที่เป็นศิลปะสมัยทวารวดี ชาวเมืองและนักท่องเที่ยวนิยมเดินทางมากราบสักการะเพื่อขอพรความเป็นสิริมงคล",
+      "descriptionsub": [""],
+      "imageUrl": "https://palanla.com/ckeditor/upload/files/id37/domestic_location/The%20Ricemill%20Market/001.jpg",
+      "rating": 4.0,
+      "category": "ศาสนสถานและศูนย์รวมจิตใจ",
+      "address": "ถนนอนรรฆนาค ตำบลกาฬสินธุ์ อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์ 46000",
+      "phone": "-",
+      "openingHours": "เปิดให้เข้าสักการะทุกวัน",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "https://palanla.com/ckeditor/upload/files/id37/domestic_location/The%20Ricemill%20Market/001.jpg",
+        "https://palanla.com/ckeditor/upload/files/id37/domestic_location/The%20Ricemill%20Market/005.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJkxYEiq_cQhjpfrmnwyLGyIIpU1pxjleHaQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMZkEFLsXImp5IxPtgf67Zi7kY04gsbIjRIQ&s",
+        "https://img.wongnai.com/p/192x192/2018/07/23/baca9ff8c0cc42fe890dd374c62d5d52.jpg"
+      ],
+      "activities": [
+        "กราบสักการะหลักเมืองและใบเสมาโบราณ",
+        "ขอพรเพื่อความเป็นสิริมงคล"
+      ],
+      "bestTimeToVisit": "ตลอดทั้งปี",
+      "facilities": [
+        "ที่จอดรถ"
+      ]
+    },
+    {
+      "id": "the-ricemill-market",
+      "title": "The Ricemill Market (ตลาดโรงสี)",
+      "titlesub": [""],
+      "location": "อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์",
+      "urllocation": [""],
+      "description": "The Ricemill Market หรือ ตลาดโรงสี เป็นแหล่งรวมอาหาร, เครื่องดื่ม, และพื้นที่สำหรับการสังสรรค์ยามค่ำคืนที่ได้รับความนิยมอย่างสูงในตัวเมืองกาฬสินธุ์ สถานที่แห่งนี้ถูกสร้างและพัฒนาขึ้นจากพื้นที่ของโรงสีข้าวเก่า มีบรรยากาศย้อนยุคผสมผสานกับความทันสมัย เป็นแหล่งรวมสตรีทฟู้ดชั้นเลิศและเป็นศูนย์กลางของไนท์ไลฟ์ของคนกาฬสินธุ์",
+      "descriptionsub": [""],
+      "imageUrl": "https://image.makewebeasy.net/makeweb/r_1920x1920/w5iNtxthq/DefaultData/2023_11_07.jpg?v=202405291424",
+      "rating": 4.0,
+      "category": "ตลาดและร้านอาหาร",
+      "address": "168 ถนนถีนานนท์ อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์ 46000",
+      "phone": "+6689-129-5306",
+      "openingHours": "ทุกวัน (เวลาอาจแตกต่างกันไป โดยส่วนใหญ่ร้านค้าจะมาเปิดมากเป็นพิเศษในช่วงเย็น)",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        
+      ],
+      "activities": [
+        "ตามอาหารอีสานและสตรีทฟู้ด",
+        "นั่งชิลล์ฟังดนตรีสด",
+        "เช็คอินถ่ายรูป"
+      ],
+      "bestTimeToVisit": "ช่วงเย็น - ค่ำ",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ",
+        "ร้านอาหารมากมาย"
+      ]
+    },
+    {
+      "id": "dhamm-uttaya-luang-pha-sila",
+      "title": "ธรรมอุทยานหลวงปู่ศิลา สิริจันโท",
+      "titlesub": [""],
+      "location": "อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์",
+      "urllocation": [""],
+      "description": "ธรรมอุทยานหลวงปู่ศิลา สิริจันโท เป็นสถานที่ศักดิ์สิทธิ์และเป็นศูนย์รวมพลังศรัทธาของผู้คนในจังหวัดกาฬสินธุ์และจากทั่วประเทศ ที่ต้องการเข้ามากราบสักการะพระเกจิอาจารย์ที่ได้รับการเคารพนับถืออย่างสูง เป็นสถานที่ที่เหมาะสำหรับการมาปฏิบัติธรรม, นั่งสมาธิ, และพักผ่อนจิตใจ",
+      "descriptionsub": [""],
+      "imageUrl": "https://kalasin.top/guide/gallery_news/album_0_2023-06-16-13-23-24.png",
+      "rating": 4.0,
+      "category": "ศาสนสถานและที่พักผ่อนจิตใจ",
+      "address": "ตำบลเชียงเครือ อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์",
+      "phone": "-",
+      "openingHours": "เปิดให้เข้ามากราบสักการะทุกวัน (โปรดตรวจสอบตารางเวลาของหลวงปู่อีกครั้ง)",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "https://kalasin.top/guide/gallery_news/album_0_2023-06-16-13-23-24.png",
+        "https://palanla.com/ckeditor/upload/files/id37/domestic_location/Thepsuda%20Bridge/003.jpg",
+        "https://encryptedtbn0.gstatic.com/images?q=tbn:ANd9GcQ5xGHilWCvwDRl44Nqb_Vkz5RVgRhd0MPIhn7rCLiiq38OvmYldiyD-4qRyZPtBIeK6Gg&usqp=CAU",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fd/d8/a2/caption.jpg?w=1200&h=-1&s=1",
+        "https://palanla.com/ckeditor/upload/files/id37/domestic_location/Thepsuda%20Bridge/006.jpg"
+      ],
+      "activities": [
+        "กราบสักการะหลวงปู่ศิลา สิริจันโท",
+        "ปฏิบัติธรรมและนั่งสมาธิ",
+        "พักผ่อนจิตใจในบรรยากาศร่มรื่น"
+      ],
+      "bestTimeToVisit": "ช่วงเช้าตรู่",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ",
+        "พื้นที่กว้างขวาง"
+      ]
+    },
+    {
+      "id": "ban-nana-chat-coffee-english-camp",
+      "title": "บ้านนานาชาติ Coffee & English Camp",
+      "titlesub": [""],
+      "location": "อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์",
+      "urllocation": [""],
+      "description": "บ้านนานาชาติ Coffee & English Camp เป็นสถานที่ที่มีความโดดเด่นไม่เหมือนใครในจังหวัดกาฬสินธุ์ เพราะไม่ได้เป็นเพียงร้านกาแฟหรือคาเฟ่เท่านั้น แต่ยังเป็นศูนย์กิจกรรมพัฒนาเยาวชนภายใต้มูลนิธิเปรมปรีดี มีบรรยากาศและการตกแต่งสไตล์มัลดีฟส์ที่สวยงาม",
+      "descriptionsub": [""],
+      "imageUrl": "https://www.lemon8-app.com/seo/image?item_id=7378027770816872976&index=5&sign=6e59041a797814e347d30f69e38e4055",
+      "rating": 4.0,
+      "category": "คาเฟ่และแหล่งเรียนรู้",
+      "address": "ถนนสายหลักในอำเภอเมืองกาฬสินธุ์ (โปรดตรวจสอบรายละเอียดที่อยู่จากแผนที่อีกครั้ง)",
+      "phone": "-",
+      "openingHours": "ทุกวัน (โดยประมาณ 09:00 – 17:00 น.)",
+      "ticketPrice": "ฟรี (แนะนำให้สนับสนุนโดยการซื้อสินค้าของร้าน)",
+      "gallery": [
+        "https://www.lemon8-app.com/seo/image?item_id=7378027770816872976&index=5&sign=6e59041a797814e347d30f69e38e4055",
+        "https://www.lemon8app.com/seo/image?item_id=7402411934538482192&index=1&sign=3d0f0b4dfc67f27336de2be07a2560a3",
+        "https://www.lemon8-app.com/seo/image?item_id=7378027770816872976&index=8&sign=1873be9cef7be9ec6ce10a0eb2a6ff69",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wM5eCPQK-Cz2dBhYw5kWPECA9cHXtX97VbP9oaB1SRVFx3qqqwNGfcSj1kUKAQSCq7I&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBGL8fcaiu9QwXrJCYzy8eO03Cxi3ffm_BOg&s"
+      ],
+      "activities": [
+        "นั่งชิลล์ที่คาเฟ่สไตล์มัลดีฟส์",
+        "ถ่ายรูปเช็คอิน",
+        "แช่ขาเล่นน้ำในลำธาร",
+        "ส่งเสริมการเรียนรู้ของเยาวชน"
+      ],
+      "bestTimeToVisit": "ตลอดทั้งปี",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ",
+        "โซนเด็กเล่น"
+      ]
+    },
+    {
+      "id": "thepsuda-bridge",
+      "title": "สะพานเทพสุดา (Thepsuda Bridge)",
+      "titlesub": [""],
+      "location": "อำเภอหนองกุงศรี เชื่อมต่อ อำเภอสหัสขันธ์ จังหวัดกาฬสินธุ์",
+      "urllocation": [""],
+      "description": "สะพานเทพสุดา เป็นโครงสร้างขนาดใหญ่ที่ไม่ได้เป็นเพียงเส้นทางคมนาคม แต่ยังเป็นแลนด์มาร์คสำคัญและเป็นจุดชมทัศนียภาพอันน่าตื่นตาตื่นใจของจังหวัดกาฬสินธุ์ เป็นสะพานข้ามน้ำจืดที่มีความยาวที่สุดในประเทศไทย โดยพาดผ่านอ่างเก็บน้ำขนาดใหญ่ของเขื่อนลำปาว",
+      "descriptionsub": [""],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq8E-2z2ucBSl_QagP1Tr0G--gDYvijsxtGQ&s",
+      "rating": 4.0,
+      "category": "สถานที่สำคัญและจุดชมวิว",
+      "address": "เชื่อมระหว่างถนนหมายเลข 2416 (สหัสขันธ์) กับ อำเภอหนองกุงศรี",
+      "phone": "-",
+      "openingHours": "เปิดทำการตลอดเวลา",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq8E-2z2ucBSl_QagP1Tr0G--gDYvijsxtGQ&s",
+        "http://www.m-culture.in.th/media/big/600967",
+        "https://www.web-pra.com/upload/amulet-page/2172-84e6.jpg",
+        "https://isan.tiewrussia.com/wat_klang/update1/01.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7b4Y3OKHyUcR4D68kCweJriZU2_ZXI6eiDTs5TgVFdtZMPWdTeWvKiov-kodfMCBR4Iw&usqp=CAU"
+      ],
+      "activities": [
+        "ขับรถชมวิวบนสะพาน",
+        "ชมพระอาทิตย์ขึ้นและตก",
+        "ถ่ายรูปกับไดโนเสาร์คู่เมือง"
+      ],
+      "bestTimeToVisit": "ช่วงเช้าและเย็น",
+      "facilities": [
+        "จุดจอดรถชั่วคราว"
+      ]
+    },
+    {
+      "id": "wat-klang",
+      "title": "วัดกลาง (Wat Klang)",
+      "titlesub": [""],
+      "location": "อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์",
+      "urllocation": [""],
+      "description": "วัดกลาง เป็นวัดที่เก่าแก่และมีความสำคัญทางประวัติศาสตร์ของจังหวัดกาฬสินธุ์ ตั้งอยู่บริเวณใจกลางเมือง เป็นศูนย์กลางของการประกอบพิธีทางศาสนาและเป็นที่ประดิษฐานพระพุทธรูปศักดิ์สิทธิ์ 'หลวงพ่อองค์ดำชุ่มเย็น' ที่ชาวเมืองเคารพนับถือมายาวนาน",
+      "descriptionsub": [""],
+      "imageUrl": "https://90route.com/wp-content/uploads/2022/02/%E0%B9%80%E0%B8%AA%E0%B8%94%E0%B9%87%E0%B8%88-343-PNE-103-33-29%E0%B8%9E.%E0%B8%A2.40-%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B9%8C-6-829x560.jpg",
+      "rating": 4.0,
+      "category": "วัด",
+      "address": "ถนนถีนานนท์ ตำบลกาฬสินธุ์ อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์ 46000",
+      "phone": "-",
+      "openingHours": "ทุกวัน (โดยทั่วไป 08:00 – 17:00 น.)",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "https://90route.com/wp-content/uploads/2022/02/%E0%B9%80%E0%B8%AA%E0%B8%94%E0%B9%87%E0%B8%88-343-PNE-103-33-29%E0%B8%9E.%E0%B8%A2.40-%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B9%8C-6-829x560.jpg",
+        "https://www.sarakadee.com/wp-content/uploads/pamaipraewa01.jpg",
+        "https://positioningmag.com/wp-content/uploads/2018/12/%E0%B8%AA%E0%B8%A1.jpg",
+        "https://archive-api.sacit.or.th/images/learning-center/sacict-learning-center-0013-009054.png",
+        "https://90route.com/wp-content/uploads/2022/02/247897193_3107511046173821_4394611212478479896_n.jpg"
+      ],
+      "activities": [
+        "สักการะหลวงพ่อองค์ดำชุ่มเย็น",
+        "ทำบุญตักบาตร",
+        "เที่ยวชมใจกลางเมืองกาฬสินธุ์"
+      ],
+      "bestTimeToVisit": "ตลอดทั้งปี",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ"
+      ]
+    },
+    {
+      "id": "pha-wa-silk-weaving-group",
+      "title": "กลุ่มทอผ้าไหมแพรวา บ้านโพน (Pha Wa Silk Weaving Group, Ban Phon)",
+      "titlesub": [""],
+      "location": "อำเภอคำม่วง จังหวัดกาฬสินธุ์",
+      "urllocation": [""],
+      "description": "กลุ่มทอผ้าไหมแพรวา บ้านโพน คือศูนย์กลางการผลิตและสืบทอดภูมิปัญญาการทอผ้า 'แพรวา' ซึ่งได้รับการกล่าวขานว่าเป็น 'ราชินีแห่งไหม' เป็นหัตถกรรมพื้นบ้านที่มีเอกลักษณ์เฉพาะตัวของชาวผู้ไทย (ภูไท) มีลวดลายที่แตกต่างกันถึงกว่า 60 ลาย",
+      "descriptionsub": [""],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkOCbrrRD4HPaScj9ww0VC_0GsCsMAdhv_Vw&s",
+      "rating": 4.0,
+      "category": "หัตถกรรมและวัฒนธรรม",
+      "address": "หมู่ที่ 1 และ 5 ตำบลโพน อำเภอคำม่วง จังหวัดกาฬสินธุ์ 46180",
+      "phone": "0-4385-6204",
+      "openingHours": "ทุกวัน (โดยประมาณ 08:30 – 16:30 น.)",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkOCbrrRD4HPaScj9ww0VC_0GsCsMAdhv_Vw&s",
+        "https://f.ptcdn.info/329/053/000/ovg46740fwcBPI7zuwK-o.jpg",
+        "https://i.ytimg.com/vi/N0Y3XVw66ok/hqdefault.jpg",
+        "https://backend.gethergo.com/uploads/files/inspiration/ffb6601f-845a-11ee-96b9-061d412ef4c6-content/7a2e6655-845b-11ee-96b9-061d412ef4c6.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7XZ_ij0vnWXBhoQPCDYEJjYib76iTlLCJvQ&s"
+      ],
+      "activities": [
+        "เรียนรู้กระบวนการทอผ้าไหมแพรวา",
+        "ชมลวดลายผ้าไหมที่งดงาม",
+        "ซื้อของฝากผ้าไหมแท้",
+        "พักอาศัยแบบโฮมสเตย์"
+      ],
+      "bestTimeToVisit": "ตลอดทั้งปี",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ",
+        "ร้านขายผ้าไหม"
+      ]
+    },
+    {
+      "id": "huai-sang-khiep-reservoir",
+      "title": "อ่างเก็บน้ำห้วยสังเคียบ (Huai Sang Khiep Reservoir)",
+      "titlesub": [""],
+      "location": "อำเภอสมเด็จ จังหวัดกาฬสินธุ์",
+      "urllocation": [""],
+      "description": "อ่างเก็บน้ำห้วยสังเคียบ เป็นอ่างเก็บน้ำขนาดกลางที่ตั้งอยู่กลางหุบเขาในเขตเทือกเขาภูพาน มีทัศนียภาพที่สวยงามและมีความสำคัญต่อระบบชลประทานในพื้นที่ จุดเด่นคือมีเกาะกลางน้ำซึ่งเป็นพื้นที่ของพุทธอุทยาน 'เกาะแก้วเบญจรัตน์' มีสะพานมาประณีตใช้ข้ามไปยังเกาะ",
+      "descriptionsub": [""],
+      "imageUrl": "https://www.sayhithailand.com/img/travel/1753363991Sayhithailand01.jpg",
+      "rating": 4.0,
+      "category": "ธรรมชาติและสันทนาการ",
+      "address": "บ้านเหล่าภูพาน ตำบลแซงบาดาล อำเภอสมเด็จ จังหวัดกาฬสินธุ์",
+      "phone": "-",
+      "openingHours": "เปิดให้เข้าชมและพักผ่อนทุกวัน",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "https://www.sayhithailand.com/img/travel/1753363991Sayhithailand01.jpg",
+        "https://img.wongnai.com/p/256x256/2019/08/27/af264a879ce34795b9d08629f2b02aa6.jpg",
+        "https://upic.me/i/0w/euu42.jpg",
+        "https://cms.dmpcdn.com/travel/2022/04/18/9c87c250-bedf-11ec-97a6-d98dedf4dab0_webp_original.jpg",
+        "https://lh4.googleusercontent.com/proxy/3ILSYlA1VFy4e0Vxk0SNapFXdBS4tw71dPV-KirI-N_1TN71RYywECp-Ywi2o3N2ZWVJs7HaOtIjlhLDsaOFT9iSKtEFarXzBLww"
+      ],
+      "activities": [
+        "ชมทัศนียภาพอ่างเก็บน้ำ",
+        "เดินข้ามสะพานไปยังเกาะแก้วเบญจรัตน์",
+        "สักการะพระพุทธสมเด็จชุมเย็นมิ่งเมืองกาฬสินธุ์",
+        "พักผ่อนปิกนิก"
+      ],
+      "bestTimeToVisit": "ช่วงเช้าและเย็น",
+      "facilities": [
+        "ที่จอดรถ",
+        "ศาลาพักผ่อน"
+      ]
+    },
+    {
+      "id": "namtok-pha-nang-koi",
+      "title": "วนอุทยานน้ำตกผานางคอย",
+      "titlesub": [""],
+      "location": "อำเภอนาคู และ อำเภอเขาวง จังหวัดกาฬสินธุ์",
+      "urllocation": [""],
+      "description": "วนอุทยานน้ำตกผานางคอย เป็นแหล่งท่องเที่ยวทางธรรมชาติที่สำคัญ ตั้งอยู่บนเทือกเขาภูพาน โดยมีลักษณะเป็นน้ำตกขนาดใหญ่ที่ไหลลดหลั่นลงมาเป็นชั้นๆ และมีความพิเศษคือมีน้ำไหลเกือบตลอดปี สภาพป่าโดยรอบมีความเขียวขจีและอุดมสมบูรณ์มาก",
+      "descriptionsub": [""],
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/17/3a/9b/photo4jpg.jpg?w=800&h=500&s=1",
+      "rating": 4.0,
+      "category": "ธรรมชาติและน้ำตก",
+      "address": "ครอบคลุมพื้นที่อำเภอนาคู และอำเภอเขาวง จังหวัดกาฬสินธุ์",
+      "phone": "-",
+      "openingHours": "ทุกวัน (โดยประมาณ 08:30 – 16:30 น.)",
+      "ticketPrice": "ไม่ระบุ",
+      "gallery": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/17/3a/9b/photo4jpg.jpg?w=800&h=500&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/17/3a/9c/photo5jpg.jpg?w=800&h=500&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/17/3a/99/photo2jpg.jpg?w=800&h=500&s=1",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVB2LZQRZGEPnRkdYV6WgLYfLBdpuZVsGxuLFlzloAoqvIAVQr6owhFKD1KtcXbQiXzo&usqp=CAU",
+        "https://media-cdn.tripadvisor.com/media/photo-s/17/17/3a/9c/photo5jpg.jpg"
+      ],
+      "activities": [
+        "เล่นน้ำสระน้ำตก",
+        "เดินป่าชมธรรมชาติ",
+        "เยี่ยมชมสำนักสงฆ์ผาเจริญธรรม",
+        "ตามหารอยเท้าไดโนเสาร์ภูแฝก (ใกล้เคียง)"
+      ],
+      "bestTimeToVisit": "ช่วงฤดูฝน (เดือนพฤษภาคม - ตุลาคม) น้ำจะเยอะ",
+      "facilities": [
+        "ลานจอดรถ",
+        "ห้องน้ำ",
+        "ร้านค้าขายของที่ระลึก"
+      ]
+    },
+    {
+      "id": "beck-box-cafe",
+      "title": "เบค บ๊อกซ์ คาเฟ่",
+      "titlesub": [""],
+      "location": "อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์",
+      "urllocation": [""],
+      "description": "เบค บ๊อกซ์ คาเฟ่เป็นร้านคาเฟ่สีเหลืองสดใสโดดเด่นสะดุดตาที่ตั้งอยู่ในบริเวณปั๊มน้ำมัน ปตท. กาฬสินธุ์ปิโตรเลียม ร้านตกแต่งน่ารัก มีพื้นที่ให้นั่งพักผ่อนทั้งแบบในร้านและนอกร้าน ให้บริการเครื่องดื่มหลากหลายทั้งกาแฟและชา พร้อมด้วยเบเกอรี่และเค้กโฮมเมด",
+      "descriptionsub": [""],
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnvO9mOvRDWeLzGnMqQqCPGmepq3ZaFPqw5nAQ4NT38fY4jXQ7p0eTgsABj857LtXwUUQkv91Z-fUprnMa7NO9S0KxxzyB0ej11tIwPY46bdMiNDayaZXPQyTrbA8O9D5hvbft27MsV-HI/s600/3.jpg",
+      "rating": 4.0,
+      "category": "ร้านอาหารและคาเฟ่",
+      "address": "244 ถนนถีนานนท์ อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์",
+      "phone": "062-696-9269",
+      "openingHours": "วันพฤหัสบดี-อังคาร เวลา 08:00–18:00 น. (ปิดวันพุธ)",
+      "ticketPrice": "ไม่มีค่าเข้าชม",
+      "gallery": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnvO9mOvRDWeLzGnMqQqCPGmepq3ZaFPqw5nAQ4NT38fY4jXQ7p0eTgsABj857LtXwUUQkv91Z-fUprnMa7NO9S0KxxzyB0ej11tIwPY46bdMiNDayaZXPQyTrbA8O9D5hvbft27MsV-HI/s600/3.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg29KFPv6S98hLKD1Yj69j_ejlSr07q8yYGE9WwfipjclOM7U_FvHUJleHfF_7fT0y8IdVCI-79iUfbM1n7uYqxXiGdHVBr4y0q3xFRTmyVXMBy3JTtPHnpn8DuWnkUHTjABzGDwnBXbTh/s600/8.jpg",
+        "https://img.wongnai.com/p/400x0/2016/04/04/7b6d056d5dbb4074bbf58d56567da3fb.jpg",
+        "https://img.wongnai.com/p/400x0/2016/04/04/4ada2ad5d6e247abafe980f7f8615a25.jpg",
+        "https://db.sac.or.th/museum/images/Museum/1009/20120213113239d7JL.jpg"
+      ],
+      "activities": [
+        "นั่งชิลล์ที่คาเฟ่สีเหลือง",
+        "ทานเบเกอรี่และเครื่องดื่ม",
+        "ถ่ายรูปเช็คอิน"
+      ],
+      "bestTimeToVisit": "ช่วยเช้า - เย็น",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "id": "heuan-isan-museum",
+      "title": "พิพิธภัณฑ์เฮือนอีสาน (Heuan Isan Museum) มหาวิทยาลัยกาฬสินธุ์",
+      "titlesub": [""],
+      "location": "อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์",
+      "urllocation": [""],
+      "description": "เป็นแหล่งรวมวัฒนธรรมและภูมิปัญญา วิถีชีวิตชาวอีสานในอดีต จัดแสดงเรือนอีสานแบบโบราณใต้ถุนสูง พร้อมด้วยเครื่องมือเครื่องใช้ในชีวิตประจำวัน เช่น ครัวไฟ (เตาฟืน), ฮ้านแอ่งน้ำ (ซุ้มน้ำดื่ม), คอกควายใต้ถุนบ้าน และเกวียนโบราณ เพื่อให้นักเรียน นักศึกษา และนักท่องเที่ยวได้เห็นถึงภูมิปัญญาที่น่าทึ่งของบรรพบุรุษชาวอีสาน",
+      "descriptionsub": [""],
+      "imageUrl": "https://backend.gethergo.com/uploads/files/inspiration/ffb6601f-845a-11ee-96b9-061d412ef4c6-content/7a2e6655-845b-11ee-96b9-061d412ef4c6.jpg",
+      "rating": 4.0,
+      "category": "พิพิธภัณฑ์และการเรียนรู้",
+      "address": "อยู่ในพื้นที่ของสถาบันการศึกษา หรือแหล่งเรียนรู้เชิงอนุรักษ์ในเขตอำเภอเมืองกาฬสินธุ์และใกล้เคียง",
+      "phone": "-",
+      "openingHours": "โปรดตรวจสอบเวลาทำการของแต่ละสถานที่",
+      "ticketPrice": "ไม่ระบุ",
+      "gallery": [
+        "https://backend.gethergo.com/uploads/files/inspiration/ffb6601f-845a-11ee-96b9-061d412ef4c6-content/7a2e6655-845b-11ee-96b9-061d412ef4c6.jpg",
+        "https://backend.gethergo.com/uploads/files/inspiration/ffb6601f-845a-11ee-96b9-061d412ef4c6-content/7a2e6655-845b-11ee-96b9-061d412ef4c6.jpg",
+        "https://i.ytimg.com/vi/N0Y3XVw66ok/hqdefault.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7XZ_ij0vnWXBhoQPCDYEJjYib76iTlLCJvQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkOCbrrRD4HPaScj9ww0VC_0GsCsMAdhv_Vw&s"
+      ],
+      "activities": [
+        "เรียนรู้วิถีชีวิตชาวอีสานโบราณ",
+        "ชมเรือนโบราณและเครื่องมือเครื่องใช้",
+        "ศึกษาภูมิปัญญาท้องถิ่น"
+      ],
+      "bestTimeToVisit": "ตลอดทั้งปี",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ"
+      ]
+    },
+    {
+      "id": "wat-phukhao-thong",
+      "title": "วัดพู่เขาทอง",
+      "titlesub": [""],
+      "location": "อำเภอเมืองกาฬสินธุ์",
+      "urllocation": [""],
+      "description": "วัดพู่เขาทองเป็นวัดโบราณสถานที่สำคัญของจังหวัดกาฬสินธุ์ มีเจดีย์ทรงปราสาทแบบลาวที่สวยงามและเป็นที่ประดิษฐานพระพุทธรูปศักดิ์สิทธิ์ วัดแห่งนี้สร้างขึ้นในสมัยกรุงศรีอยุธยาตอนปลาย และได้รับการบูรณะในสมัยรัตนโกสินทร์ ภายในวัดมีพิพิธภัณฑ์ของวัดที่จัดแสดงโบราณวัตถุต่างๆ ที่พบในบริเวณวัดและในจังหวัดกาฬสินธุ์",
+      "descriptionsub": [""],
+      "imageUrl": "https://f.ptcdn.info/068/064/000/prs2sq69i8bZ4TfUbB4-o.jpg",
+      "rating": 4.5,
+      "category": "วัด",
+      "address": "ตำบล กาฬสินธุ์ อำเภอเมืองกาฬสินธุ์ จังหวัดกาฬสินธุ์ 46000",
+      "phone": "043-xxx-xxxx",
+      "openingHours": "08:00 - 17:00 น.",
+      "ticketPrice": "ฟรี",
+      "gallery": [
+        "http://googleusercontent.com/image_collection/image_retrieval/17608261660603588372_0",
+        "http://googleusercontent.com/image_collection/image_retrieval/17608261660603588372_1",
+        "http://googleusercontent.com/image_collection/image_retrieval/17608261660603588372_2",
+        "http://googleusercontent.com/image_collection/image_retrieval/17608261660603588372_3"
+      ],
+      "activities": [
+        "สักการะพระพุทธรูปศักดิ์สิทธิ์",
+        "ชมเจดีย์ทรงปราสาทแบบลาว",
+        "เรียนรู้ประวัติศาสตร์ของวัด",
+        "ทำบุญและทอดผ้าป่า"
+      ],
+      "bestTimeToVisit": "ตลอดทั้งปี โดยเฉพาะในเทศกาลสำคัญทางพระพุทธศาสนา",
+      "facilities": [
+        "ที่จอดรถ",
+        "ห้องน้ำ",
+        "ร้านค้าขายของที่ระลึก",
+        "ศาลาพักผ่อน"
+      ]
+    }
+  ]
+}
