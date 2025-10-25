@@ -78,7 +78,7 @@ Kalasin Travel: 🦕 พิพิธภัณฑ์ไดโนเสาร์�
     const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
       method: 'POST',
       headers: {
-        'Authorization': `Bearer ${process.env.OPENROUTER_API_KEY || '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'}`,
+  'Authorization': `Bearer ${process.env.OPENROUTER_API_KEY}`,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
